@@ -52,7 +52,6 @@ Year-long industrial placement on commercial SaaS used by **3,500+ customers acr
 - Shipped features across a React/TypeScript frontend and a Laravel/MySQL backend
 - Built reusable, responsive components with Redux and Tailwind CSS
 - Developed and maintained integrations with third-party providers over REST and OAuth 2
-- Debugged a legacy SOAP integration, down to the raw XML envelopes
 - Wrote SQL to turn client reporting requirements into custom reports
 - Built cron jobs automating routine property and inspection data checks
 - Gated customer features and access with feature flags
