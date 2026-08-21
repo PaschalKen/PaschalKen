@@ -55,7 +55,7 @@ Year-long industrial placement on commercial SaaS used by **3,500+ customers acr
 - Wrote SQL to turn client reporting requirements into custom reports
 - Built cron jobs automating routine property and inspection data checks
 - Gated customer features and access with feature flags
-- Triaged and fixed production incidents with Sentry and Alertra
+- Investigated and resolved production issues and bugs with Sentry
 - Tested with Jest, PHP Prophecy and Cypress; shipped via CircleCI
 
 ---
