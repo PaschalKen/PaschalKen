@@ -47,17 +47,17 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
 ## 💼 Experience
 
 ### Junior Software Developer — Radweb Ltd ([@radweb](https://github.com/radweb)) · Jul 2024 – Sep 2025
-Year-long industrial placement on commercial SaaS products used by **3,500+ customers across 50+ countries**.
+Year-long industrial placement on commercial SaaS used by **3,500+ customers across 50+ countries**.
 
-- Developed and maintained features across a React and TypeScript frontend and a Laravel and MySQL backend, building reusable, responsive components with Redux and Tailwind CSS
-- Developed and maintained integrations with third-party property, accounting and payment providers, using REST APIs secured with OAuth 2 to synchronise property, appointment and financial data between systems
-- Maintained and debugged a legacy SOAP integration, working directly with the XML request envelopes carrying authentication and process data between the two systems
-- Designed and customised property and inspection reports, writing SQL against MySQL to turn client reporting requirements into accurate, usable outputs
-- Built and maintained scheduled cron jobs running automated checks and updates against property and inspection data
-- Configured customer accounts and system access using feature flags, and onboarded customers onto integrations by diagnosing configuration and connection issues
-- Investigated and resolved production incidents using Sentry and Alertra, reproducing and fixing problems to prevent recurrence
-- Validated integrations and system changes with unit, specification and end-to-end tests in Jest, PHP Prophecy and Cypress, released through CircleCI pipelines and code review
-- Wrote technical documentation covering implementations and integrations as reference material for the team
+- Shipped features across a React/TypeScript frontend and a Laravel/MySQL backend
+- Built reusable, responsive components with Redux and Tailwind CSS
+- Developed and maintained integrations with third-party providers over REST and OAuth 2
+- Debugged a legacy SOAP integration, down to the raw XML envelopes
+- Wrote SQL to turn client reporting requirements into custom reports
+- Built cron jobs automating routine property and inspection data checks
+- Gated customer features and access with feature flags
+- Triaged and fixed production incidents with Sentry and Alertra
+- Tested with Jest, PHP Prophecy and Cypress; shipped via CircleCI
 
 ---
 
