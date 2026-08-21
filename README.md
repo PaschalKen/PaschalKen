@@ -39,7 +39,7 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
   </tr>
 </table>
 
-**Also:** IndexedDB · Dexie · Entity Framework Core · CircleCI · PHP Prophecy · Clean Architecture · CQRS · Event-Driven Architecture · REST · Agile · CI/CD
+**Also:** IndexedDB · Dexie · Entity Framework Core · REST · SOAP · OAuth 2 · CircleCI · Sentry · PHP Prophecy · Clean Architecture · CQRS · Event-Driven Architecture · REST · Agile · CI/CD
 
 
 ---
@@ -49,20 +49,22 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
 ### Junior Software Developer — Radweb Ltd ([@radweb](https://github.com/radweb)) · Jul 2024 – Sep 2025
 Year-long industrial placement on commercial SaaS products used by **3,500+ customers across 50+ countries**.
 
-- Shipped features end to end across a React/TypeScript frontend and a Laravel/MySQL backend, working from designs through to production release
-- Built REST integrations with external property platforms, handling authentication, data mapping and failure cases
-- Cut page load times by optimising slow MySQL queries and introducing Redis caching
-- Automated a manual reporting process using AWS Lambda and S3
-- Kept releases safe with Jest, Cypress and PHP Prophecy test coverage, deployed through CircleCI
-- Diagnosed and fixed live production issues surfaced by Sentry, often under time pressure
-- Worked in a cross-functional Agile team with designers, QA and mobile developers, reviewing code and releasing frequently
+- Developed and maintained features across a React and TypeScript frontend and a Laravel and MySQL backend, building reusable, responsive components with Redux and Tailwind CSS
+- Developed and maintained integrations with third-party property, accounting and payment providers, using REST APIs secured with OAuth 2 to synchronise property, appointment and financial data between systems
+- Maintained and debugged a legacy SOAP integration, working directly with the XML request envelopes carrying authentication and process data between the two systems
+- Designed and customised property and inspection reports, writing SQL against MySQL to turn client reporting requirements into accurate, usable outputs
+- Built and maintained scheduled cron jobs running automated checks and updates against property and inspection data
+- Configured customer accounts and system access using feature flags, and onboarded customers onto integrations by diagnosing configuration and connection issues
+- Investigated and resolved production incidents using Sentry and Alertra, reproducing and fixing problems to prevent recurrence
+- Validated integrations and system changes with unit, specification and end-to-end tests in Jest, PHP Prophecy and Cypress, released through CircleCI pipelines and code review
+- Wrote technical documentation covering implementations and integrations as reference material for the team
 
 ---
 
 ## 🎯 Featured Projects
 
 ### [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project
-**88% — highest mark in cohort**
+**88% — highest mark in cohort · 🏆 School of Computing Project Excellence Award**
 
 Full-stack business management system built and deployed for an automotive and agro parts distributor: inventory, sales, fulfilment, reporting and staff administration across multiple branches.
 
