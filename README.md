@@ -46,7 +46,7 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
 
 ## 💼 Experience
 
-### Junior Software Developer — Radweb Ltd · Jul 2024 – Sep 2025
+### Junior Software Developer — Radweb Ltd ([@radweb](https://github.com/radweb)) · Jul 2024 – Sep 2025
 Year-long industrial placement on commercial SaaS products used by **3,500+ customers across 50+ countries**.
 
 - Shipped features end to end across a React/TypeScript frontend and a Laravel/MySQL backend, working from designs through to production release
@@ -62,7 +62,7 @@ Year-long industrial placement on commercial SaaS products used by **3,500+ cust
 ## 🎯 Featured Projects
 
 ### [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project
-**88% — highest mark in cohort · 🏆 School of Computing Project Excellence Award**
+**88% — highest mark in cohort**
 
 Full-stack business management system built and deployed for an automotive and agro parts distributor: inventory, sales, fulfilment, reporting and staff administration across multiple branches.
 
@@ -93,11 +93,13 @@ Built with a modular ES module structure and a small JSON-backed persistence lay
 
 ## 🎓 Education
 
-**BSc (Hons) Software Engineering — University of Portsmouth** · First Class Honours
+**BSc (Hons) Software Engineering with Placement Year — University of Portsmouth** ([@portsoc](https://github.com/portsoc)) · First Class Honours
+
+🏆 School of Computing Project Excellence Award
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paschal-ezenwobi-828654230/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ezenwobikene@gmail.com)
+- 👔 **LinkedIn:** [@paschal-ezenwobi](https://www.linkedin.com/in/paschal-ezenwobi-828654230/)
+- 📧 **Email:** [ezenwobikene@gmail.com](mailto:ezenwobikene@gmail.com)
