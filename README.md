@@ -47,21 +47,24 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
 ## 💼 Experience
 
 ### Junior Software Developer — Radweb Ltd · Jul 2024 – Sep 2025
-Commercial SaaS used by **3,500+ customers across 50+ countries**.
+Year-long industrial placement on commercial SaaS products used by **3,500+ customers across 50+ countries**.
 
-- Built and maintained production apps in React, TypeScript, Laravel and MySQL
-- Developed REST integrations with third-party property platforms
-- Integrated GPT-4 into a production workflow, replacing a manual content process
-- Automated report generation with AWS Lambda and S3
-- Optimised MySQL queries and added Redis caching
-- Wrote automated tests (Jest, Cypress, PHP Prophecy) and shipped via CircleCI
+- Shipped features end to end across a React/TypeScript frontend and a Laravel/MySQL backend, working from designs through to production release
+- Built REST integrations with external property platforms, handling authentication, data mapping and failure cases
+- Cut page load times by optimising slow MySQL queries and introducing Redis caching
+- Automated a manual reporting process using AWS Lambda and S3
+- Kept releases safe with Jest, Cypress and PHP Prophecy test coverage, deployed through CircleCI
+- Diagnosed and fixed live production issues surfaced by Sentry, often under time pressure
+- Worked in a cross-functional Agile team with designers, QA and mobile developers, reviewing code and releasing frequently
 
 ---
 
 ## 🎯 Featured Projects
 
-### [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project · 88%, highest in cohort
-Full-stack business management system built and deployed for a real automotive and agro parts distributor: inventory, sales, fulfilment, reporting and staff administration across multiple branches.
+### [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project
+**88% — highest mark in cohort · 🏆 School of Computing Project Excellence Award**
+
+Full-stack business management system built and deployed for an automotive and agro parts distributor: inventory, sales, fulfilment, reporting and staff administration across multiple branches.
 
 Clean Architecture and CQRS, event-driven activity logging, role-based auth, Redis caching, IndexedDB offline support and real-time analytics dashboards — requirements gathered directly from the client and validated through user acceptance testing.
 
@@ -86,20 +89,11 @@ Built with a modular ES module structure and a small JSON-backed persistence lay
 
 `JavaScript` `Node.js` `HTML` `CSS`
 
-
 ---
 
 ## 🎓 Education
 
 **BSc (Hons) Software Engineering — University of Portsmouth** · First Class Honours
-🏆 School of Computing Project Excellence Award
-
----
-
-## 📊 GitHub Stats
-
-![Paschal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaschalKen&show_icons=true&hide_border=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaschalKen&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
