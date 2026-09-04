@@ -62,7 +62,7 @@ Year-long industrial placement on commercial SaaS used by **3,500+ customers acr
 
 ## 🎯 Featured Projects
 
-### [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project
+### 🧑🏽‍💻 [ERP-Style Business Management System](https://github.com/PaschalKen/Seeman-Business-management) — Final Year Project
 **88% — highest mark in cohort · 🏆 School of Computing Project Excellence Award**
 
 Full-stack business management system built and deployed for an automotive and agro parts distributor: inventory, sales, fulfilment, reporting and staff administration across multiple branches.
