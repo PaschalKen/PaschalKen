@@ -102,5 +102,5 @@ Built with a modular ES module structure and a small JSON-backed persistence lay
 
 ## 📫 Let's Connect
 
-- 👔 **LinkedIn:** [@paschal-ezenwobi](https://www.linkedin.com/in/paschal-ezenwobi-828654230/)
+- 👔 **LinkedIn:** [Paschal Ezenwobi](https://www.linkedin.com/in/paschal-ezenwobi-828654230/)
 - 📧 **Email:** [ezenwobikene@gmail.com](mailto:ezenwobikene@gmail.com)
