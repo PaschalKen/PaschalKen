@@ -39,7 +39,7 @@ I enjoy building software that solves real problems, picking up unfamiliar techn
   </tr>
 </table>
 
-**Also:** IndexedDB · Dexie · Entity Framework Core · REST · SOAP · OAuth 2 · CircleCI · Sentry · PHP Prophecy · Clean Architecture · CQRS · Event-Driven Architecture · REST · Agile · CI/CD
+**Also:** FastAPI · AWS Lambda · Amazon S3 · pytest · GitHub Actions · IndexedDB · Dexie · Entity Framework Core · REST · SOAP · OAuth 2 · CircleCI · Sentry · PHP Prophecy · Clean Architecture · CQRS · Event-Driven Architecture · Agile · CI/CD
 
 
 ---
@@ -70,6 +70,15 @@ Full-stack business management system built and deployed for an automotive and a
 Clean Architecture and CQRS, event-driven activity logging, role-based auth, Redis caching, IndexedDB offline support and real-time analytics dashboards — requirements gathered directly from the client and validated through user acceptance testing.
 
 `React` `TypeScript` `Redux` `NestJS` `PostgreSQL` `Redis` `Tailwind CSS`
+
+### 🌦️ [ForecastBridge](https://github.com/PaschalKen/ForecastBridge) — Weather Data Platform on AWS
+**[Live demo](https://4hgo4skmrmq4avm52lrgj23lzu0gatfn.lambda-url.eu-north-1.on.aws/)**
+
+Serverless weather data platform that collects hourly forecasts for UK cities, stores them in Amazon S3 and serves them through a REST API and a web dashboard with a 48-hour chart.
+
+A scheduled Lambda job builds up an hourly history, and the API serves cached forecasts from S3, so it keeps working when the weather provider is down. Least-privilege IAM roles per function, CloudWatch alerting, and a pytest suite with mocked AWS services run on every push with GitHub Actions.
+
+`Python` `FastAPI` `AWS Lambda` `Amazon S3` `EventBridge` `CloudWatch` `pytest` `GitHub Actions`
 
 ### 🏋️ [Subira](https://github.com/PaschalKen/Subira) — Workout Tracker
 Mobile-first PWA for tracking gym sessions, exercises and sets. An ongoing exploration of offline-first architecture and local ↔ server synchronisation.
