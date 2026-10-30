@@ -2,13 +2,15 @@
 
 Software Engineering graduate (First Class Honours) with commercial full-stack experience building and maintaining production web applications — frontend, backend, APIs, testing, CI/CD and cloud.
 
-I enjoy building software that solves real problems, picking up unfamiliar technologies quickly, and taking projects from an idea through to a working product.
+I enjoy building software that solves real problems, picking up unfamiliar technologies quickly, and taking projects from an idea through to a working product. See more on my **[website](https://paschalezenwobi.vercel.app)**.
 
+- 🌐 Portfolio, projects and blog: **[paschalezenwobi.vercel.app](https://paschalezenwobi.vercel.app)**
 - 🔭 Currently building offline-first, full-stack side projects
 - 🌱 Deepening my knowledge of system design and software architecture
 - 💬 Open to opportunities with strong engineering teams
 
 ---
+
 
 ## 🛠️ Tech Stack
 
